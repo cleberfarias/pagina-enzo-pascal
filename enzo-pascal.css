@@ -26,3 +26,11 @@
     letter-spacing: 1.2pt;
     line-height: 32px;
 }
+.btn{
+    background-color: #00a78e;
+    border-radius: 4px;
+    padding: 20px 40px;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
