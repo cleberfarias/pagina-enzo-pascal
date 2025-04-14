@@ -15,3 +15,7 @@ Confira o arquivo enzo-pascal.css com seletores de classe . subtitle2 e title
 ## Passo 3: Aula como transformar links e botões com CSS
 Confira o arquivo enzo-pascal.html com link (anchor)
 Confira o arquivo enzo-pascal.css com marcações e botões
+
+## Passo 4: Desafogando Seu texto com Espaçamentos
+Confira o arquivo enzo-pascal.html com link (anchor)
+Confira o arquivo enzo-pascal.css com marcações e botões
