@@ -7,4 +7,7 @@ Projeto para aprender Html e CSS os fundamentos
 Confira o arquivo enzo-pascal.html com estutura basica de HTML
 Confira o arquivo enzo-pascal.css com seletores de elementos h1 3 h2
 
-[Aula sobre criação de arquivos](https://plataforma.dev.pro.br/107469-dev-tools-ferramentas-do-programador/3695730-domine-o-git-gerencie-alteracoes-em-seu-projeto-de-software-comunidade-devpro)
+
+## Passo 2: Aula como melhorar a tipografia do seu site com CSS
+Confira o arquivo enzo-pascal.html com estutura basica de HTML
+Confira o arquivo enzo-pascal.css com seletores de classe . subtitle2 e title
